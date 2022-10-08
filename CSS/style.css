@@ -371,7 +371,7 @@ header{
     font-size: 0.9rem
 }
 
- .footer_container{
+.footer_container{
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 5rem;
@@ -499,7 +499,7 @@ footer ul li:hover{
        background: var(--color-bg2);
        color: var(--color-white);
    }
-}
+
 
     /* =================HEADER================== */
 
@@ -553,7 +553,7 @@ footer ul li:hover{
     .footer_container{
         grid-template-columns: 1fr 1fr;
     }
-
+}
 
 /* =================MEDIA QUERIES (PHONES)===================== */
 
